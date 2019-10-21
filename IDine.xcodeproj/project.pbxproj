@@ -18,6 +18,7 @@
 		B53104702358D9B800692655 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = B531046E2358D9B800692655 /* Order.swift */; };
 		B53104722358D9E900692655 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = B53104712358D9E900692655 /* menu.json */; };
 		B5797EA0235E170600BDF529 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5797E9F235E170600BDF529 /* ItemRow.swift */; };
+		B5797EA2235E1D2E00BDF529 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5797EA1235E1D2E00BDF529 /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		B531046E2358D9B800692655 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		B53104712358D9E900692655 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		B5797E9F235E170600BDF529 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		B5797EA1235E1D2E00BDF529 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				B53104592358D5C300692655 /* SceneDelegate.swift */,
 				B531045B2358D5C300692655 /* ContentView.swift */,
 				B5797E9F235E170600BDF529 /* ItemRow.swift */,
+				B5797EA1235E1D2E00BDF529 /* ItemDetail.swift */,
 				B531046B2358D97900692655 /* Helper.swift */,
 				B531046D2358D9B800692655 /* Menu.swift */,
 				B53104712358D9E900692655 /* menu.json */,
@@ -167,6 +170,7 @@
 				B531045A2358D5C300692655 /* SceneDelegate.swift in Sources */,
 				B5797EA0235E170600BDF529 /* ItemRow.swift in Sources */,
 				B531045C2358D5C300692655 /* ContentView.swift in Sources */,
+				B5797EA2235E1D2E00BDF529 /* ItemDetail.swift in Sources */,
 				B531046C2358D97900692655 /* Helper.swift in Sources */,
 				B531046F2358D9B800692655 /* Menu.swift in Sources */,
 			);
